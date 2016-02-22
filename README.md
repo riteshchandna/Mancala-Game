@@ -8,7 +8,9 @@ On a player's turn, he or she chooses one of the pits on his or her side of the 
 Tasks:
 Program to determine the next move by implementing the following algorithms:
 Greedy
+
 Minimax
+
 Alpha-Beta
 
 End game:
